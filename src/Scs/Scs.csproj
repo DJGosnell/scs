@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AsyncExtensions.cs" />
     <Compile Include="Collections\ThreadSafeSortedList.cs" />
     <Compile Include="Communication\ScsServices\Client\IScsServiceClient.cs" />
     <Compile Include="Communication\ScsServices\Client\ScsServiceClient.cs" />
